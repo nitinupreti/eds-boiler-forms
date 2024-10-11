@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--eds-boilerplate-forms--nitinupreti.hlx.page/
-- Live: https://main--eds-boilerplate-forms--nitinupreti.hlx.live/
+- Preview: https://main--eds-boiler-forms--nitinupreti.hlx.page/
+- Live: https://main--eds-boiler-forms--nitinupreti.hlx.live/
 
 ## Installation
 
